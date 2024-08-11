@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there :📝:pencil:
 
 Olá sou fabricio santos, estudante de desenvolvimento front end, atualmente desenvolvendo projetos com :
 <br>
@@ -9,6 +9,10 @@ Olá sou fabricio santos, estudante de desenvolvimento front end, atualmente des
 <br> 
 
 => ![image](https://github.com/user-attachments/assets/f3d100d5-c2d9-4648-99d4-e85da74269eb)
+<br>
+
+=> ![image](https://github.com/user-attachments/assets/10b9b087-cd34-4e30-803d-46ac6e0299c6)
+
 
 
 
